@@ -19,6 +19,8 @@ client.user.setActivity('//visitor [name], //citizen [name], //diplomat [name], 
 client.user.setStatus("online");
 });
 
+worker: node index.js
+
 //-------------------------------------------------------------------
 
 // ready
