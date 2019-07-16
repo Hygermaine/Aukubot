@@ -507,4 +507,4 @@ client.on('message', message => {
 //-------------------------------------------------------------------
 
 // login
-client.login(token);
+client.login(process.env.token);
